@@ -45,3 +45,15 @@ export default App;
 
 
 ```
+
+## Input
+
+Type Your Name into the 'First Name' and 'Last Name' text fields.
+
+<img width="179" alt="Capture" src="https://user-images.githubusercontent.com/91548582/143574830-f834d037-be64-43e9-b377-61be43dcd604.PNG">
+
+## Output
+
+The example output for the app should look like this...|| Get in touch if you have trouble launching the app!
+
+<img width="217" alt="Capture" src="https://user-images.githubusercontent.com/91548582/143574941-ec6e02b7-5cf4-4bac-ba3e-875e82106b60.PNG">
