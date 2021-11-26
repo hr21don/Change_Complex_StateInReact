@@ -50,14 +50,16 @@ export default App;
 
 ## Input
 
-Type Your Name into the 'First Name' and 'Last Name' text fields.
+Type Your into the 'First Name','Last Name' , 'Email' text fields provided below.
 
-<img width="179" alt="Capture" src="https://user-images.githubusercontent.com/91548582/143574830-f834d037-be64-43e9-b377-61be43dcd604.PNG">
+<img width="237" alt="Capture" src="https://user-images.githubusercontent.com/91548582/143578830-89617f94-ccbd-4ee9-9e0e-b4cc2f290828.PNG">
+
 
 ## Output
 
 The example output for the app should look like this...|| Get in touch if you have trouble launching the app!
 
-<img width="217" alt="Capture" src="https://user-images.githubusercontent.com/91548582/143574941-ec6e02b7-5cf4-4bac-ba3e-875e82106b60.PNG">
+
+<img width="306" alt="Capture" src="https://user-images.githubusercontent.com/91548582/143578983-db2580f4-d67c-4725-a1d1-4a5c73e2e1c6.PNG">
 
 
