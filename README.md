@@ -57,7 +57,7 @@ Type Your into the 'First Name','Last Name' , 'Email' text fields provided below
 
 ## Output
 
-The example output for the app should look like this...|| Get in touch if you have trouble launching the app!
+The example output for the app should allow the user to type in their first name, last name and email as shown below! || Get in touch if you have trouble launching the app!
 
 
 <img width="306" alt="Capture" src="https://user-images.githubusercontent.com/91548582/143578983-db2580f4-d67c-4725-a1d1-4a5c73e2e1c6.PNG">
